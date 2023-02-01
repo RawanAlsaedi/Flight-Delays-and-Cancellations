@@ -1,7 +1,7 @@
 # Flight Delays and Cancellations
 
 
-![image](https://web.static-rmg.be/if/c_crop,w_1500,h_1000,x_0,y_0,g_center/c_fit,w_620,h_413/158d0cb5387c4e3964cd0861609f5c30.jpg)
+![image](https://assets.change.org/photos/3/vh/ej/MLVHeJxOrnAjrwa-800x450-noPad.jpg?1509265330)
 
 ## Project Description
 In this project, you'll create visualizations to reveal insights from a data set. You will create data visualizations that tell a story or highlight patterns in the data set. 
